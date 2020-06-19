@@ -27,7 +27,12 @@
     "prettier": "^1.19.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
+    "react-spring": "^8.0.27",
+    "react-transition-group": "^4.4.1",
     "umi": "^3.2.4",
     "yorkie": "^2.0.0"
+  },
+  "devDependencies": {
+    "@types/react-transition-group": "^4.4.0"
   }
 }
