@@ -1,6 +1,8 @@
 # Page Transition Animation on UmiJS ^3.2.4
 
-This repo shows how to do page transition animation on UmiJS v3.x using React-Transition-Group and react-spring
+This repo shows how to do page transition animation on UmiJS ^3.2.4 using React-Transition-Group and react-spring
+
+![demo](demo.gif)
 
 It replaces the current UmiJS's Switch component with React-Router's Switch component so that location from props will be used instead of from router context.
 
